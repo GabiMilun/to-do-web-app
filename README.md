@@ -1,2 +1,2 @@
 # to-do-web-app
-Vjezba za mobx i node
+Vjezba za mobx
